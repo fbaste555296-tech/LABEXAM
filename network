@@ -1,1 +1,31 @@
+from sys import prefix
 
+number = input("Enter a mobile number:")
+
+def length(number):
+    pass
+
+    def first_two_digits(number: object) -> object:
+        pass
+
+
+    if length(number) == 11:
+        var = prefix < -4(number)
+        if prefix{"0905", "0906", "0915", "0903", "0904"}
+             print("The network is TM")
+        elif prefix{"0913", "0914", "0920", "0921", "0928", "0929", "0930"}
+             print("The network is Smart")
+        elif prefix{"0909", "0910","0911", "0912", "0918", "0919"}
+             print("The network is TNT   ")
+        elif prefix{"0922", "0923","0932", "0933"}
+             print("The network is Sun")
+        elif prefix{"0915", "0916","0917", "0925", "0926", "0927"}
+             print("The network is Globe")
+        elif prefix{"0901", "0902","0924"}
+             print("The network is Red")
+        elif prefix{"0991", "0992", "0993", "0994", "0995", "0996", "0997", "0998"}
+             print("The network is Dito")
+    else:
+        print("Invalid mobile number")
+        first_two_digits(number) != "09"
+        print("Invalid mobile number")
